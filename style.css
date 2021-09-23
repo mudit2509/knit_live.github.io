@@ -1,0 +1,176 @@
+#outer
+{
+height:1300px;
+width:1250px;
+border:1px solid;
+//margin:1px auto;
+}
+#slider
+{
+height:450px;
+width:1250px;
+//border:1px solid blue;
+background-image:url('task images1/knit8.jpg');
+background-size:cover;
+opacity:0.9;
+}
+#menustrip
+{
+height:100px;
+width:1250px;
+//border:1px solid yellow;
+}
+#lmenu
+{ 
+height:100px;
+width:556px;
+float:left;
+border-right:3px solid white;
+//background-color:#4cc6df;
+}
+#rmenu
+{ 
+height:100px;
+width:687px;
+float:right;
+//border:1px solid red;
+}
+#logo
+{
+height:100px;
+width:100px;
+//border:1px solid;
+float:left;
+}
+#text
+{
+height:100px;
+width:450px;
+//border:1px solid;
+float:right;
+font-family:arial;
+color:white;
+//background-color:#4cc6df;
+//opacity:0.8;
+//margin-top:25px
+font-size:25px;	
+}
+
+#rmenu ul
+{
+list-style-type:none;
+}
+#rmenu ul li
+{
+display:inline;
+//width:110px;
+background-color:#4cc6df;
+font-size:18px;
+padding:8px;
+margin-top:10px;
+//color:black;
+}
+#rmenu ul li:hover
+{
+text-decoration:overline;
+}
+#info
+{
+height:600px;
+width:1250px;
+//border:1px solid;
+margin-top:40px;
+}
+#footer
+{
+height:200px;
+width:1250px;
+background-color:black;
+border-top:3px solid white;
+//margin-top:0px;
+border-radius:10px;
+}
+#one
+{
+height:180px;
+width:32%;
+border-right:1px solid white;
+border-left:1px solid white;
+margin-left:10px;
+float:left;
+margin-top:5px;
+//border-radius:10px;
+}
+#two
+{
+height:180px;
+width:32%;
+border-right:1px solid white;
+margin-left:10px;
+float:left;
+margin-top:5px;
+//border-radius:10px;
+}
+#three
+{
+height:180px;
+width:32%;
+border-right:1px solid white;
+//border-left:1px solid white;
+margin-left:10px;
+float:left;
+margin-top:5px;
+//border-radius:10px;
+}
+
+#info1
+{
+height:600px;
+width:750px;
+float:left;
+//border:1px solid;
+text-align:justify;
+}
+#info2
+{
+height:600px;
+width:475px;
+float:right;
+border-left:1px solid grey;
+border-top:1px solid grey;
+text-align:justify;
+background-color:lightgrey;
+}
+#knit66
+{
+height:150px;
+width:150px;
+margin:10px auto;
+border:1px solid;
+box-shadow:1px 1px 1px;
+}
+#notices
+{
+height:250px;
+width:400px;
+margin:1px auto;
+border:1px solid;
+box-shadow:2px 2px 2px grey;
+}
+#thought
+{
+height:250px;
+width:600px;
+//border:1px solid;
+margin-top:150px;
+margin-left:60px;
+}
+
+#chal
+{
+height:168px;
+width:400px;
+//border:1px solid yellow;
+//margin-top:150px;
+//margin-left:60px;
+}
